@@ -1,5 +1,3 @@
-
-
 External API
 ============
 
@@ -9,6 +7,8 @@ Odoo is usually extended internally via modules, but many of its features and al
 its data are also available from the outside for external analysis or integration with 
 various tools. Part of the Model Reference API is easily available over XML-RPC and 
 accessible from a variety of languages.
+
+[![](https://img.youtube.com/vi/ruQYv7ywOTU/0.jpg)](https://vauxoo.com/r/eexternalapi)
 
 #### Configuration
 
